@@ -10,9 +10,7 @@
     "prod": "sass **/*.scss **/*.css --no-source-map"
   },
   "devDependencies": {
+    "sass": "^1.72.0",
     "stylelint": "^16.2.1"
-  },
-  "dependencies": {
-    "sass": "^1.72.0"
   }
 }
