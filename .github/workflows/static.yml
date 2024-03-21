@@ -35,6 +35,7 @@ jobs:
         uses: actions/setup-node@v4
       - run: npm install
       - run: npm run prod
+      - run: tree
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
