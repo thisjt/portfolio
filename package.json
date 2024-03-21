@@ -6,7 +6,8 @@
 		"url": "https://github.com/thisjt/portfolio.git"
 	},
   "scripts": {
-    "dev": "sass index.scss index.css"
+    "dev": "sass $INIT_CWD/index.scss $INIT_CWD/index.css --watch --no-source-map",
+    "prod": "sass **/*.scss **/*.css --no-source-map"
   },
   "devDependencies": {
     "sass": "^1.72.0",
