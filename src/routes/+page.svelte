@@ -1,3 +1,3 @@
 This is a test!
 
-<a href="/test.html">test</a>
+<a href="/test">test</a>
