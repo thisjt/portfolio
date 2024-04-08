@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A simple portfolio to showcase frontend talents.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisjt/portfolio.git"
+  },
+  "author": "Joshua Tahanlangit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisjt/portfolio/issues"
+  },
+  "homepage": "https://github.com/thisjt/portfolio#readme"
+}
